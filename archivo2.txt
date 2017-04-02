@@ -1,1 +1,1 @@
-un texto para el achivo2.txt
+un nuevo texto para el archivo2.txt
